@@ -1,0 +1,13 @@
+@import "../vendors/bootstrap-5.0.2/scss/bootstrap-grid.scss";
+
+// Reset
+@import "../scss/reset";
+
+// Typography
+@import "./typography.scss";
+
+// Mixins
+@import "../mixins/mixins.scss";
+
+// Page
+@import "../pages/index";

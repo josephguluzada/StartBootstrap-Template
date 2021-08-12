@@ -1,0 +1,14 @@
+{
+  "name": "23.07.2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass ./assets/scss/main.scss ./assets/css/style.css -w"
+  },
+  "author": "yusifguluzada",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
